@@ -29,3 +29,4 @@ RUN mkdir -p /home/laravel/.composer && chown -R laravel:laravel /home/laravel
 
 WORKDIR /var/www
 USER laravel
+
